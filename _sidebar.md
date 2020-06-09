@@ -1,2 +1,2 @@
 * [Welcome](/)
-* [Installation](quick-start.md)
+* [Installation](installation.md)
