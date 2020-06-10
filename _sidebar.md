@@ -1,2 +1,6 @@
 * [Welcome](/)
-* [Installation](installation.md)
+* [Get Started](installation.md)
+* [Theme Customization](customization.md)
+* [Theme Sections](sections.md)
+* [FAQ](faq.md)
+* [Other](other.md)

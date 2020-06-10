@@ -1,6 +1,5 @@
-# Planeta Theme <small>beta</small>
+# Planeta Theme
 
-> Documentation
+## Documentation
 
-[GitHub](https://github.com)
-[Get Started](#Headline)
+[Get Started](#Welcome)
