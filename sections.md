@@ -1,8 +1,8 @@
 # Theme Sections
 
-As mentioned before, Planeta comes with various different section types that
-can be displayed on the frontpage. You can edit them in admin dashboard, in
-**Planeta** section.
+As mentioned before, Planeta comes with various section types that
+can be displayed on the frontpage. You can edit them in the admin dashboard, in
+the **Planeta** section.
 
 ![Screenshot of Main Customizer Options](/images/screenshot-sections.png)
 
