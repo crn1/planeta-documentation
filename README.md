@@ -8,6 +8,6 @@ Thank you for choosing us! If you haven't already, you can purchase Planeta
 [here](http://example.org).
 
 # Credits
-- Icons by **IcoFont** (www.icofont.com)
-- Images by **Pexels** (www.pexels.com) and **PxHere** (www.pxhere.com)
-- Special thanks to **Andrej Zolotić** and **Miloš Zivlak**
+- Icons by [**IcoFont**](www.icofont.com)
+- Images by [**Pexels**](www.pexels.com) and [**PxHere**](www.pxhere.com)
+- Special thanks to [**Andrej Zolotić**](http://www.artstation.com/andrejzolotic) and **Miloš Zivlak**
